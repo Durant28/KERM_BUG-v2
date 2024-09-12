@@ -12,24 +12,24 @@ const fs = require('fs');
 const chalk = require('chalk');
 
 //owmner v card
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.ytname = "YT: KermHackTools-s9s" //ur yt chanel name
+global.socialm = "GitHub: Kgtech-cmr" //ur github or insta name
+global.location = "Cameroon, Douala, Yaoundé" //ur location
 
 //new
-global.botname = 'Cheems Bot MD V15' //ur bot name
-global.ownernumber = ['916909137213'] //ur owner number, dont add more than one
-global.ownername = '🦄드림 가이 Xeon' //ur owner name
+global.botname = 'Kerm Bug v2' //ur bot name
+global.ownernumber = ['237656520674'] //ur owner number, dont add more than one
+global.ownername = '🦄KgTech' //ur owner name
 global.websitex = "https://youtu.be/tLq8_qOOGFI"
-global.wagc = "https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20"
+global.wagc = "https://whatsapp.com/channel/0029Vafn6hc7DAX3fzsKtn45"
 global.themeemoji = '🪀'
-global.wm = "Xeon Bot Inc."
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD15' //script link
+global.wm = "KERM BUG V2."
+global.botscript = 'https://github.com/Kgtech-cmr/KERM_BUG-v2' //script link
 global.packname = "Sticker By"
-global.author = "🦄드림 가이 Xeon\n\n+916909137213"
-global.creator = "916909137213@s.whatsapp.net"
+global.author = "⚡️KgTech\n\n+237656520674"
+global.creator = "237656520674@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["916909137213"] // Premium User
+global.premium = ["237656520674"] // Premium User
 
 //channel id
 global.xchannel = {
