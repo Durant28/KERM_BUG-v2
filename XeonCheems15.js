@@ -319,7 +319,7 @@ module.exports = XeonBotInc = async (XeonBotInc, m, chatUpdate, store) => {
 			}
 		}, {
 			scheduled: true,
-			timezone: 'Asia/Kolkata'
+			timezone: 'Cameroon/Douala'
 		})
 		
 		if (!XeonBotInc.public) {
@@ -973,10 +973,10 @@ quoted: m,
         }
         
 //time
-const xday = moment.tz('Asia/Kolkata').locale('en-IN').format('dddd');
-const xdate = moment.tz('Asia/Kolkata').locale('en-IN').format('DD/MM/YYYY');
-const xtime = moment().tz('Asia/Kolkata').locale('en-IN').format('HH:mm:ss');
-const time2 = moment().tz('Asia/Kolkata').format('HH:mm:ss')  
+const xday = moment.tz('Cameroon/Douala').locale('en-IN').format('dddd');
+const xdate = moment.tz('Cameroon/Douala').locale('en-IN').format('DD/MM/YYYY');
+const xtime = moment().tz('Cameroon/Douala').locale('en-IN').format('HH:mm:ss');
+const time2 = moment().tz('Cameroon/Douala').format('HH:mm:ss')  
 if(time2 < "23:59:00"){
 var xeonytimewisher = `Good Night 🌌`
  }
