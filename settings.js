@@ -33,7 +33,7 @@ global.premium = ["237656520674"] // Premium User
 
 //channel id
 global.xchannel = {
-	jid: '120363222395675670@newsletter'
+	jid: '120363321386877609@newsletter'
 	}
 
 //bot sett
