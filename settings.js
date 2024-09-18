@@ -18,7 +18,7 @@ global.location = "Cameroon, Douala, Yaoundé" //ur location
 
 //new
 global.botname = 'Kerm Bug v2' //ur bot name
-global.ownernumber = ['237683236218'] //ur owner number, dont add more than one
+global.ownernumber = ['237697517505'] //ur owner number, dont add more than one
 global.ownername = '🦄KgTech' //ur owner name
 global.websitex = "https://youtu.be/tLq8_qOOGFI"
 global.wagc = "https://whatsapp.com/channel/0029Vafn6hc7DAX3fzsKtn45"
